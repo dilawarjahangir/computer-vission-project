@@ -18,13 +18,16 @@ This project uses a Python virtual environment (`venv`). Follow the instructions
    git clone <repository-url>
    cd <repository-directory>
 2. **Create and activate the virtual environment:**
-
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 
 **Install the required dependencies:**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
 Ensure that the following packages are listed in requirements.txt and installed:
 scikit-learn
