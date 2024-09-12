@@ -27,7 +27,7 @@ This project uses a Python virtual environment (`venv`). Follow the instructions
    ```bash
    pip install -r requirements.txt
    ```
-**Download Dataset **[click here](https://drive.google.com/drive/folders/1ITJKqcqnC0LfAkapZ1w-wcxfV0CMXx6T?usp=sharing)
+**Download Dataset** [click here](https://drive.google.com/drive/folders/1ITJKqcqnC0LfAkapZ1w-wcxfV0CMXx6T?usp=sharing)
 
 
 Note:Ensure that the following packages are listed in requirements.txt and installed
