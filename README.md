@@ -30,4 +30,4 @@ This project uses a Python virtual environment (`venv`). Follow the instructions
 **Download Dataset** [click here](https://drive.google.com/drive/folders/1ITJKqcqnC0LfAkapZ1w-wcxfV0CMXx6T?usp=sharing)
 
 
-Note:Ensure that the following packages are listed in requirements.txt and installed
+Note:Ensure that the following packages are listed in requirements.txt are installed
