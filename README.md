@@ -27,11 +27,8 @@ This project uses a Python virtual environment (`venv`). Follow the instructions
    ```bash
    pip install -r requirements.txt
    ```
+**Download Dataset from the given link**
+To download dataset [click here](https://drive.google.com/drive/folders/1ITJKqcqnC0LfAkapZ1w-wcxfV0CMXx6T?usp=sharing)
 
 
-Ensure that the following packages are listed in requirements.txt and installed:
-scikit-learn
-numpy
-joblib
-pandas
-tensorflow (for ANN)
+Note:Ensure that the following packages are listed in requirements.txt and installed
